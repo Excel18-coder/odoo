@@ -23,7 +23,7 @@ odoo (8.0.0) stable; urgency=low
 
  -- Simon Lejeune <sle@odoo.com>  Wed, 17 Sep 2014 15:40:00 +0100 
 
-openerp (8.0.0~rc1-0) testing; urgency=low
+openerp (8.0.0~rc1-0) Testing; urgency=low
 
   * Refactored packaging
 
